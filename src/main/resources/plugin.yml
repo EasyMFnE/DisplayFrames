@@ -1,0 +1,29 @@
+name: DisplayFrames
+version: '1.0'
+description: Make ItemFrames better by seeing an item's information with a click
+
+author: EasyMFnE
+
+database: false
+main: net.easymfne.displayframes.DisplayFrames
+load: POSTWORLD
+
+commands:
+  displayframes:
+    aliases: [df]
+    description: DisplayFrames command
+    permission: displayframes.admin
+    permission-message: 'Unknown command. Type "/help" for help.'
+    usage: |
+           "/displayframes reload - Reload configuration"
+           "/displayframes template - Save new locale template"
+
+permissions:
+  displayframes.admin:
+    default: op
+    description: Allows access to admin functionality
+
+  displayframes.use:
+    default: true
+    description: Allows access to user functionality
+

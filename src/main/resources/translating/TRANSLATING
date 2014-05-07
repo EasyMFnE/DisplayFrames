@@ -1,0 +1,4 @@
+LocaleTranslator can be compiled and executed in order to convert all Minecraft
+locale files in the working directory using any existing '.template' file.  All
+converted files are saved into the 'locale' subdirectory, creating it if it does
+not already exist.

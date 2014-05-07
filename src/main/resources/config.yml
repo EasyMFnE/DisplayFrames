@@ -1,0 +1,43 @@
+###########################################################
+# This file is part of the DeadHorses plugin by EasyMFnE. #
+###########################################################
+
+# Available locales: All locales that Minecraft accepts
+# See your language settings in your client for specific codes
+locale: "en_US"
+
+# Enable/disable particular information display lines
+enabled:
+    header: false
+    name: true
+    author: true
+    durability: true
+    enchantment: true
+    potion_effect: true
+    lore: true
+    footer: false
+
+# Set of colors for DisplayableItems to use in messages
+color:
+    primary: "&6"
+    secondary: "&e"
+    tertiary: "&f"
+
+# Formatting strings for each information display type
+string:
+    header: "@=================================================@"
+    name: "[%s]"
+    author: "Author: %s"
+    durability: "Durability: %s/%s"
+    enchantment: "Enchantments: %s"
+    potion_effect: "Potion Effects: %s"
+    lore: "Lore: %s"
+    footer: "@=================================================@"
+
+# Experimental feature allowing players in creative mode to middle-click on an
+#   ItemFrame and recieve an exact clone of the item into their inventory.
+# Note: Due to limitations within Minecraft/Bukkit, this will only work when the
+#   player does not have a similar item already in their hotbar (as this simply
+#   changes the selected slot number and does not fire any catchable events).
+cloning:
+    enabled: false
