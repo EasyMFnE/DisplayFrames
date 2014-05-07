@@ -4,7 +4,7 @@
 [Change Log](https://github.com/EasyMFnE/DisplayFrames/blob/master/CHANGES.log) |
 [Feature Request](https://github.com/EasyMFnE/DisplayFrames/issues) |
 [Bug Report](https://github.com/EasyMFnE/DisplayFrames/issues) |
-[Donate](https://www.paypal.com/cgi-bin/webscr?hosted_button_id=457RX2KYUDY5G&item_name=DisplayFramess&cmd=_s-xclick)</center>
+[Donate](https://www.paypal.com/cgi-bin/webscr?hosted_button_id=457RX2KYUDY5G&item_name=DisplayFrames&cmd=_s-xclick)</center>
 
 <center>**Latest Release:** v1.0 for Bukkit 1.7+</center>
 
@@ -77,4 +77,4 @@ This plugin utilizes Hidendra's **Plugin-Metrics** system.  You may opt out of t
 
 ## License ##
 
-This plugin is released as free and open-source project under the [GNU General Public License version 3 (GPLv3)](http://www.gnu.org/copyleft/gpl.html).  To learn more about what this means, click that link or [read about it on Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License).
+This plugin is released as a free and open-source project under the [GNU General Public License version 3 (GPLv3)](http://www.gnu.org/copyleft/gpl.html).  To learn more about what this means, click that link or [read about it on Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License).
